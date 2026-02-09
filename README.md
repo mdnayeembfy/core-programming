@@ -11,4 +11,6 @@
 ## Run
 - go to the file path and run the following command to execute the file
 
-```node fileName.js```
+```javascript
+node fileName.js
+```
