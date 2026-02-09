@@ -9,6 +9,6 @@
 - Async-await
 
 ## Run
-- go to the file path and run the following command
+- go to the file path and run the following command to execute the file
 
-<node prob-01.js>
+`node fileName.js`
